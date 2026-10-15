@@ -2,7 +2,7 @@
 
 **Profesor:** Dr. Emmanuel Torres Ríos
 
-Este módulo estudia cómo aprovechar procesadores con varios núcleos que comparten la misma memoria: concurrencia y paralelismo, clasificación de computadoras, arquitectura del conjunto de instrucciones y programación multihilo con **OpenMP**. Como caso de aplicación se trabaja el procesamiento de imágenes BMP en C, que más adelante se paraleliza.
+Este módulo estudia cómo aprovechar procesadores con varios núcleos que comparten la misma memoria: concurrencia y paralelismo, clasificación de computadoras, arquitectura del conjunto de instrucciones y programación multihilo con **OpenMP**. Como caso de aplicación se trabaja el procesamiento de imágenes BMP en C.
 
 ## Contenido
 
