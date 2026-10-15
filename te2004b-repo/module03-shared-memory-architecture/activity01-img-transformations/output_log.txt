@@ -1,0 +1,24 @@
+Función: inv_hor_color, con sample.bmp
+Localidades totales leídas: 926640
+Localidades totales escritas: 926640
+-------------------------------------
+Función: inv_hor_bn, con sample.bmp
+Localidades totales leídas: 926640
+Localidades totales escritas: 926640
+-------------------------------------
+Función: inv_ver_color, con sample.bmp
+Localidades totales leídas: 926640
+Localidades totales escritas: 926640
+-------------------------------------
+Función: inv_ver_bn, con sample.bmp
+Localidades totales leídas: 926640
+Localidades totales escritas: 926640
+-------------------------------------
+Función: blur_color, con sample.bmp
+Localidades totales leídas: 926640
+Localidades totales escritas: 926640
+-------------------------------------
+Función: blur_bn, con sample.bmp
+Localidades totales leídas: 926640
+Localidades totales escritas: 926640
+-------------------------------------

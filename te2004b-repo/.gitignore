@@ -1,0 +1,31 @@
+# Ejecutables y objetos
+*.exe
+*.out
+*.o
+*.obj
+*.elf
+*.a
+*.so
+*.dylib
+
+# Binarios sin extensión de los ejemplos de OpenMP
+module03-shared-memory-architecture/parallel-processing/hello
+module03-shared-memory-architecture/parallel-processing/pi
+module03-shared-memory-architecture/parallel-processing/integer_parallel
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+codegen/
+Codegen/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
